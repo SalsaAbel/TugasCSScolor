@@ -1,0 +1,35 @@
+ol{
+    margin-left: -40px;
+    margin-top: -40;
+  list-style-position: inside;
+}
+p{
+    color: pink;
+}
+
+li[value="2"]{
+    color: burlywood;
+}
+
+.note{
+    font-size: 20px;
+}
+#id-selector-demo{
+    color: red;
+}
+
+li[value="4"]{
+    color: rgb(0, 128, 128);
+}
+
+li[value="5"]{
+    color: yellow;
+}
+
+*{
+    font-weight: normal;
+}
+*{
+
+   text-align: center;
+}
